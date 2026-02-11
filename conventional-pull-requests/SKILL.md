@@ -1,6 +1,6 @@
 ---
 name: conventional-pull-requests
-description: Create pull requests with Conventional Commit-style titles and template-compliant descriptions using GitHub CLI. Use when asked to open, draft, or update a PR from the current branch and the team expects consistent semantic titles and structured PR bodies.
+description: Create pull requests with Conventional Commit-style titles and template-compliant descriptions using GitHub CLI. Use when asked to create, open, draft, or update a PR from the current branch and the team expects consistent semantic titles and structured PR bodies.
 ---
 
 # Conventional Pull Requests
