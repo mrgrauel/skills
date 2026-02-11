@@ -1,0 +1,4 @@
+interface:
+  display_name: "Conventional Commits"
+  short_description: "Create valid Conventional Commit messages"
+  default_prompt: "Use $conventional-commits to draft a valid commit message from my staged changes."

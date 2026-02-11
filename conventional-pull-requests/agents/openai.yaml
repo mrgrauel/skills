@@ -1,0 +1,4 @@
+interface:
+  display_name: "Conventional Pull Requests"
+  short_description: "Create template-compliant conventional PRs"
+  default_prompt: "Use $conventional-pull-requests to draft and open a pull request for my current branch."
